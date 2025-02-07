@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## In 2024 I graduated from Tver State University and received the qualification of "Information Security Specialist".
+## At the university we programmed in C++ with a mathematical bias. I am also familiar with the SQL programming language. But I don't want to stop there and I strive for new knowledge, so at the moment I am taking the course "Neural Network Developer".
 
 <!--
 **AnnaFV/AnnaFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
