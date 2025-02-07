@@ -1,4 +1,5 @@
 ## Hi there 👋
+## In 2024 I graduated from Tver State University and received the qualification of "Information Security Specialist".
 
 <!--
 **AnnaFV/AnnaFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
